@@ -10,7 +10,7 @@ Most AI-built sites look alike because the brief is vague, and a vague brief ret
 |---|---|---|
 | [01 The brief](prompts/01-brief/prompt.md) | Six lines on the business, then the AI questions you before proposing anything | 20 to 30 minutes |
 | [02 Three directions](prompts/02-three-directions/prompt.md) | Three visual directions that differ in kind, with colours, type and a recommendation | 30 to 45 minutes |
-| [03 A hero that does something](prompts/03-hero/prompt.md) | A complete build prompt for an interactive first screen, with a [live demo built from it, unedited](https://vibesignet.com/website-prompts/demo/) | 60 to 90 minutes |
+| [03 A hero that does something](prompts/03-hero/prompt.md) | A complete build prompt for an interactive first screen, with a [live demo an AI coding agent built from it](https://vibesignet.com/website-prompts/demo/) (one change since: the slider) | 60 to 90 minutes |
 
 The times are our estimates for a first build, not measurements. All three are also on [vibesignet.com/website-prompts](https://vibesignet.com/website-prompts), with copy buttons.
 
