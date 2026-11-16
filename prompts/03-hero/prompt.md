@@ -2,7 +2,7 @@
 
 A complete build prompt for one section, the first screen. It is written for a fictional paint maker, Ochrewell; change the four lines under THE BUSINESS, and the idea under THE IDEA, for yours. The visitor does what the business does.
 
-See what an AI coding agent built from it, unedited: https://vibesignet.com/website-prompts/demo/
+See what an AI coding agent built from it: https://vibesignet.com/website-prompts/demo/ (we have changed one thing since, the slider, which jerked on phones)
 
 Works in Claude Code, Codex, Cursor and any AI coding tool.
 
